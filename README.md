@@ -6,3 +6,5 @@ The code currently:
 2. Computes averaged face normals from the vertex normals, so there is a loss of information.
 
 Format specification credits: https://paulbourke.net/dataformats/bmf_2/
+
+Dependency: `Construct` library to parse to BMF binary format.
